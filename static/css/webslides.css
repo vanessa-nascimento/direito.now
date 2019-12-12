@@ -3841,3 +3841,7 @@ p, [class*='content-'] > [class*='content-'] p{
   object-fit: cover;
   width: 100%;
 }
+
+.text-height{
+  height: 200px;
+}
