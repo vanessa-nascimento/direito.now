@@ -3845,3 +3845,7 @@ p, [class*='content-'] > [class*='content-'] p{
 .text-height{
   height: 200px;
 }
+
+.title-graph{
+  font-size: 2.4rem;
+}
