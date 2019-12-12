@@ -3843,9 +3843,14 @@ p, [class*='content-'] > [class*='content-'] p{
 }
 
 .text-height{
-  height: 200px;
+  height: 230px;
+  font-size: 1.8rem;
 }
 
 .title-graph{
   font-size: 2.4rem;
+}
+
+.text-without-margin{
+  font-size: 1.8rem;
 }
